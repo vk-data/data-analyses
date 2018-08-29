@@ -1,4 +1,4 @@
-![](logo.png)
+![](logo.png, width = 75%)
 
 # VK Data
 
