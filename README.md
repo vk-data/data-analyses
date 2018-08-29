@@ -1,4 +1,4 @@
-![](logo.png, width = "75%")
+<img src="logo.png" width="75%"/>
 
 # VK Data
 
