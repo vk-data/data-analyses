@@ -1,4 +1,4 @@
-![](materal/logo.png)
+![](logo.png)
 
 # VK Data
 
